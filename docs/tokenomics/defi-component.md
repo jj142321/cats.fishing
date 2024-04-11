@@ -14,12 +14,6 @@ In order to provide more liquidity to the collectors in Cats Fishing, we designe
 
 
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-11 at 12.16.26.png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
-
 When a user buys NFT from the system, a percentage of the purchase price might go into a collateral pool associated with NFT. User then has an option to sell it back to the system (i.e. destroy the NFT) for the price equivalent to the locked collateral (or a percentage of it). This guarantees that the value of NFT cannot go below a certain threshold. This feature will also allow a user to take a loan using NFT as a collateral.
 
 #### Renting NFT <a href="#renting-nft" id="renting-nft"></a>
