@@ -2,10 +2,21 @@ import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
+const plugin = [
+  '@docusaurus/plugin-content-docs',
+  {
+    id: 'whitepaper',
+    path: 'whitepaper',
+    routeBasePath: '/whitepaper',
+    // ... other options
+  },
+];
+
 const config: Config = {
   title: 'Cats Fishing',
   tagline: 'Hello',
   favicon: 'img/favicon.ico',
+  plugins: [plugin],
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
@@ -64,6 +75,11 @@ const config: Config = {
         src: 'img/logo.svg',
       },
       items: [
+        {
+          to: 'whitepaper',
+          position: 'left',
+          label: 'Whitepaper',
+        },
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',

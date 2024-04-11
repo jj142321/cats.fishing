@@ -1,38 +1,33 @@
 # Table of contents
 
-## Overview
+* [About](README.md)
+* [How to Start Playing](how-to-start-playing.md)
+* [Roadmap](roadmap.md)
 
-* [Abstract](README.md)
-* [Game Overview](overview/game-overview.md)
-* [Business Objectives](overview/business-objectives.md)
-* [USPs](overview/usps.md)
-* [Goals](overview/goals.md)
-* [Current Status](overview/current-status.md)
-* [Competition](overview/competition.md)
-* [Team & Partners](overview/team-and-partners.md)
+## How Cats Fishing Works
 
-## Key Game Features
+* [NFTs](how-cats-fishing-works/nfts.md)
+* [Solana Blockchain](how-cats-fishing-works/solana-blockchain.md)
 
-* [Marketplace](key-game-features/marketplace.md)
-* [Pur Harbor](key-game-features/pur-harbor.md)
-* [Player Avatars](key-game-features/player-avatars.md)
-* [In-game Assets](key-game-features/in-game-assets.md)
-* [Progression System](key-game-features/progression-system.md)
-* [Quest & Community Events](key-game-features/quest-and-community-events.md)
-* [Community Forum](key-game-features/community-forum.md)
+## Marketplace
 
-## Blockchain Features
+* [Welcome](marketplace/welcome.md)
+* [The Islands](marketplace/the-islands.md)
+* [Buying & Selling Camps](marketplace/buying-and-selling-camps.md)
+* [Alpha Access](marketplace/alpha-access.md)
+* [Your Backpack](marketplace/your-backpack/README.md)
+  * [My Assets](marketplace/your-backpack/my-assets.md)
+  * [Bids](marketplace/your-backpack/bids.md)
+  * [Staking](marketplace/your-backpack/staking.md)
+  * [Account Settings](marketplace/your-backpack/account-settings.md)
 
-* [Game Assets](blockchain-features/game-assets.md)
-* [Marketplace & Trading](blockchain-features/marketplace-and-trading.md)
-* [DAO & Governance](blockchain-features/dao-and-governance.md)
+## How-To Articles
 
-## Tokenomics
+* [Logging In](how-to-articles/logging-in.md)
+* [Staking](how-to-articles/staking.md)
+* [KYC Verification](how-to-articles/kyc-verification.md)
 
-* [Bones Token](tokenomics/bones-token.md)
-* [DeFi Component](tokenomics/defi-component.md)
-* [Whisker Lake Council](tokenomics/whisker-lake-council.md)
+## Gameplay
 
-## Technology
-
-* [System Technology](technology/system-technology.md)
+* [Fishing](gameplay/fishing.md)
+* [Crafting](gameplay/crafting.md)
